@@ -13,7 +13,7 @@
   "dependencies": {
     "lodash": "4.17.4",
     "express": "4.16.0",
-    "moment": "2.19.3",
+    "moment": "2.29.4",
     "axios": "0.18.0",
     "mongoose": "5.7.5",
     "jsonwebtoken": "8.5.0",
